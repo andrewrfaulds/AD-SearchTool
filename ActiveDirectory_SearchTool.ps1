@@ -1,6 +1,6 @@
 ﻿# Working progress of a script which will allow some basic AD querying 
 # and modifying via a windows.form  GUI.
-# A Faulds  JULY 19
+
 
 
 # create main form.
